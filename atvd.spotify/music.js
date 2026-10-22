@@ -1,7 +1,7 @@
 const musicas = [
     {
         id: 1,
-        url: 'https://www.google.com/imgres?q=contagem%20regressiva%20musica&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273145253db3e8f88cb943db1f7&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F06VStvBWfFbepR97LhRo8D&docid=qotUiEhTHiOpcM&tbnid=j9nuKfitNwKvXM&vet=12ahUKEwijiofz7c2XAxXMiJUCHe9KOmMQnPAOegQIRhAA..i&w=640&h=640&hcb=2&ved=2ahUKEwijiofz7c2XAxXMiJUCHe9KOmMQnPAOegQIRhAA',
+        url: 'https://i1.sndcdn.com/artworks-ZVnCU1y2Kacg-0-t1080x1080.jpg',
         banda: 'MC Ig',
         nome: 'Contagem Regressiva',
         audio: 'audio/CONTAGEM REGRESSIVA - IG, Mc J Vila, Negão Original, Lele JP, MC Ryan SP (Djs Murillo e LT, Guh Mix) - GR6 EXPLODE.mp3'
