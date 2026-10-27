@@ -8,31 +8,31 @@ const musicas = [
     },
     {
         id: 2,
-        url: 'https://www.google.com/imgres?q=postinho%20de%20gasolina%20musica&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2735a5ab94b38aec77383bde6ff&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F0xXYRMvxCUBKWVptybXSjB&docid=Qo_MiCp84EpFMM&tbnid=YbYu9xWDlkvNiM&vet=12ahUKEwiZ4dfF7s2XAxVuI7kGHTJ4FkEQnPAOegQIPBAA..i&w=640&h=640&hcb=2&ved=2ahUKEwiZ4dfF7s2XAxVuI7kGHTJ4FkEQnPAOegQIPBAA',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvl_xl2XEols2Ds6st0YbJefpQwGtv4aE52xt2Qw0uA&s=10',
         banda: 'Joao Gustavo e Murilo, Grelo',
-        nome: 'Postimho de Gasolina',
-        audio: ''
+        nome: 'Postinho de Gasolina',
+        audio: 'audio/João Gustavo e Murilo, @Eogrelo - Postinho De Gasolina Ao Vivo Em Goiânia.mp3'
     },
     {
         id: 3,
-        url: 'https://www.google.com/imgres?q=mega%20hair%20musica&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273e91881ea1beeea44ecff0e5e&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F6lZjGV5YRf4JP82ylbO0yu&docid=WiChyThedCq2nM&tbnid=Vy0O3n0KyDHtyM&vet=12ahUKEwi3xu2i782XAxX1lZUCHSIkMgwQnPAOegQIRBAA..i&w=640&h=640&hcb=2&itg=1&ved=2ahUKEwi3xu2i782XAxX1lZUCHSIkMgwQnPAOegQIRBAA',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB33OY9yf9ORcYS9wr7278tGlxmm1Ia_VUi-G3dsiW5A&s',
         banda: 'Netto Brito, Luan Pereira - Ao Vivo',
         nome: 'Mega Hair',
-        audio: ''
+        audio: 'audio/MEGA HAIR - Netto Brito, Luan Pereira Ilha do Arrocha (Ao Vivo em São Luís MA) - OFICIAL.mp3'
     },
     {
         id: 4,
-        url: 'https://www.google.com/imgres?q=rainha%20da%20finesse%20musica&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2732bc7126d3c6b848ad747bf7b&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F0w7vodPWFEcuEYvWpbNbOu&docid=OyvnqTp28jIVxM&tbnid=9dpxl5VbFvoG7M&vet=12ahUKEwiG1KTi782XAxUvr5UCHQOcCV8QnPAOegQITRAA..i&w=640&h=640&hcb=2&ved=2ahUKEwiG1KTi782XAxUvr5UCHQOcCV8QnPAOegQITRAA',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIzLjlE52JUtmVHvm2CMHDnryUAK8z4OXkemfop1YZg&s=10',
         banda: 'WIU',
         nome: 'Rainha da Finesse',
-        audio: ''
+        audio: 'audio/WIU - Rainha da Finesse.mp3'
     },
     {
         id: 5,
-        url: 'https://www.google.com/imgres?q=foto%20com%20bumbum%20pra%20lua%20musica&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27380d839af739c13a7e1db3802&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F4kijw81VK1woxf4mndg7IV&docid=7zg7NFn57Y1heM&tbnid=7_sDyFk8Gvau-M&vet=12ahUKEwiYs-LY8c2XAxXZFLkGHXMsNHYQnPAOegQIMRAA..i&w=640&h=640&hcb=2&itg=1&ved=2ahUKEwiYs-LY8c2XAxXZFLkGHXMsNHYQnPAOegQIMRAA',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVHgFHcjoG22zRyw-u2n2EIQcV2nBWI7OPQqcrTgiUQ&s=10',
         banda: 'G.A, Mc Lele JP',
         nome: 'foto com bumbum pra lua',
-        audio: ''
+        audio: 'audio/1. G.A - foto com bumbum pra lua (ft. Mc Lele JP) [Funk de Canalha II].mp3'
     }
 ];
 
